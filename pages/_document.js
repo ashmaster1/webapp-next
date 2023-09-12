@@ -6,6 +6,7 @@ export default function Document() {
       <Head />
       <body>
         <Main />
+        <script src="http://localhost:3000/_next/static/chunks/remoteEntryCommunity.js" />
         <NextScript />
       </body>
     </Html>
